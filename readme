@@ -1,0 +1,4 @@
+1 - Após criar o projeto instalar o typescript
+yarn add typescript @types/react @types/react-dom @types/node -D
+
+- Parei no 42min da segunda aula
